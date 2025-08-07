@@ -40,7 +40,7 @@ This prep test not only reinforces your syntax knowledge but helps you think lik
 ## To run this project
 - Fork the repo 
 - Make a Virtual Environment 
-- Run the `db_builder.py file 
+- Run the `db_builder.py` file 
 - Then start with the `final.ipynb` 
 - The code cells all have triple quotes and your query here. Just remove "your query here" and put yours in. 
 ```python
